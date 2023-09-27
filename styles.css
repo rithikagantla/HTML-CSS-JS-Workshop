@@ -1,0 +1,20 @@
+h3 {
+  color: pink;
+  font-size: 30px;
+}
+
+p {
+  color: aqua;
+}
+
+p.special{
+  background-color: blueviolet;
+}
+
+div.special {
+  background-color: orange;
+}
+
+#thisID {
+  background-color: brown;
+}
